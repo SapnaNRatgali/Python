@@ -1,0 +1,9 @@
+
+# you can specify a step to skip elements in the sequence:
+
+my_list = [10, 20, 30, 40, 50]
+print("My list conatins : ",my_list)
+
+sliced = my_list[::2]  # Start at index 0, take every 2nd element
+print(f"Sliced list taking every 2nd element: {sliced}") 
+print()
