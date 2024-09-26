@@ -24,6 +24,7 @@ sort(), reverse(), copy(), len()
 
 # list operations:
 
+'''
 Adding Elements: append(), extend(), insert()
 Removing Elements: remove(), pop(), clear()
 Accessing/Modifying: Indexing (my_list[index]), Slicing (my_list[start:end]), Updating (my_list[index] = value)
@@ -32,3 +33,4 @@ Sorting/Reversing: sort(), reverse()
 Copying: copy()
 List Arithmetic: Concatenation (+), Repetition (*)
 Other: len(), in (membership check)
+'''
