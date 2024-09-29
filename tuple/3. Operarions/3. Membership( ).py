@@ -8,4 +8,7 @@ print("Is 22 in tup1?", 22 in tup1)  # Output: False
 print("Is 22 in tup2?", 22 in tup2)  # Output: True
 print()
 
-
+t1 = (1, 2, 3)
+# Check if an element does not exists in the tuple using the 'not in' keyword.
+print(5 not in t1)  # Output: True
+print()
