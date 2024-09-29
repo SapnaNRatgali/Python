@@ -39,7 +39,7 @@ Other: len(), in (membership check)
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------#
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------#
 
-# Tuple (immutable/)
+# Tuple (immutable/unchangeable)
 
 1. A tuple is like a container where you can store multiple items, similar to a list.
 2. It allows you to store multiple items (of the same or different data types) in a single variable, so we can say tuples are heterogeneous.
