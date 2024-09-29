@@ -1,0 +1,11 @@
+# Tuple creation using parentheses
+
+tup1 = (10, 20, 30, 40, 50, 10, 10)
+print("Tuple 1:", tup1)
+print()
+
+# Tuple creation without parentheses
+
+tup2 = 11, 22, 33, 44, 55
+print("Tuple 2:", tup2)
+print()
