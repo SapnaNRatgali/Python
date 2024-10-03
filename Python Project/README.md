@@ -1,8 +1,9 @@
 
 # This Python code is a Pizza Ordering System for "Crust Charm Pizza." 
-# The system allows a customer to choose and order pizzas (both veg and non-veg) as well as side orders. 
+- The system allows a customer to choose and order pizzas (both veg and non-veg) as well as side orders. 
+- This would be classified as a basic to medium-level Python project. 
 
-# Here’s a breakdown of how the code works:
+Here's a breakdown of how the code works:
 
 1. Initialization:
 - The code starts by greeting the customer and taking their name as input.
