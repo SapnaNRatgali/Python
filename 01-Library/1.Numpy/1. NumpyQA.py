@@ -1,7 +1,7 @@
 import numpy as np   # Importing the NumPy library for array operations
 
 #-------------------------------------------------------------------
-# 1. Convert the below list into numpy array then display the array Input: my_list = [1, 2, 3, 4, 5]
+# 1. Convert the below list into numpy array then display the array Input: my_list = [1, 2, 3, 4, 5] 
 
 my_list = [1, 2, 3, 4, 5]  # Defining the input list
 arr = np.array(my_list)  # Creates a NumPy array from the list
